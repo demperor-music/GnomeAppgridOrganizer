@@ -1,0 +1,28 @@
+Games
+'Game'
+Game.directory
+Utility
+'Utility'
+Utility.directory
+Office
+'Office'
+Office.directory
+Development
+'Development'
+Development.directory
+System
+'System', 'Settings'
+System-Tools.directory
+Social
+'Network', 'InstantMessaging'
+Social
+Internet
+'Network', 'WebBrowser'
+Network.directory
+Media
+'AudioVideo', 'Audio', 'Video'
+AudioVideo.directory
+Graphics
+'Graphics'
+Graphics.directory
+[END]
