@@ -1,5 +1,5 @@
 # GnomeAppgridOrganizer
-![Demonstration](https://github.com/user-attachments/assets/75f5b34a-9291-4387-a821-5eb8fd3afd5a)
+![Demonstration.webp](https://github.com/user-attachments/assets/75f5b34a-9291-4387-a821-5eb8fd3afd5a)
 
 
 GnomeAppgridOrganizer is a shell script that helps you organize your GNOME desktop application grid by categorizing your applications into folders.
